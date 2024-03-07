@@ -1,1 +1,2 @@
 # OdinProj
+Git Practice
